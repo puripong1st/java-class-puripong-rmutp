@@ -1,4 +1,4 @@
-public class PuripongClassone {
+public class PuripongClass1 {
 
     public static void main(String args[]) {
         String butten = "--------------------------------";
@@ -13,11 +13,11 @@ public class PuripongClassone {
         System.out.println(butten);
         System.out.println("   /\\...../\\");
         System.out.println("  ( .)   (. )");
-        System.out.println(" :::  \\/   :::");
-        System.out.println("  ..       ..");
-        System.out.println("   .  ....  .");
-        System.out.println("   .........");
-        System.out.println("     ,, ,, ");
+        System.out.println(" :::   \\/   :::");
+        System.out.println("  ..        ..");
+        System.out.println("    . .... .");
+        System.out.println("    ........");
+        System.out.println("      ,, ,, ");
 
         // 4
         System.out.println(butten);
