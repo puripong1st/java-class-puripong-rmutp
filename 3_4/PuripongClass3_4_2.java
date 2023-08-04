@@ -12,7 +12,7 @@ public class PuripongClass3_4_2 {
         System.out.print("กรุณาใส่องศาเซลเซียส: ");
         double celsius = scanner.nextDouble();
 
-        double celsiusToFahrenheit = (9.0 / 5.0) * celsius + 32;
+        double celsiusToFahrenheit = (9.0 / 5.0) * celsius - 32;
 
         double fahrenheit = celsiusToFahrenheit;
         System.out.println("องศาฟาเรนไฮต์: " + fahrenheit + " F");
